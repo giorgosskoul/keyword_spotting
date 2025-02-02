@@ -1,0 +1,7 @@
+datasets==3.2.0
+matplotlib==3.10.0
+numpy==2.2.2
+openwakeword==0.6.0
+scikit_learn==1.6.1
+torch==2.5.1
+tqdm==4.67.1
